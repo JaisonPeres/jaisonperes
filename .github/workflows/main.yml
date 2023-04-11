@@ -1,5 +1,9 @@
 name: Upload Website
 
+branding:
+  icon: "package"
+  color: "blue"
+
 on:
   push:
     branches:
