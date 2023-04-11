@@ -8,6 +8,7 @@ function App() {
 
   return (
     <div className="App">
+      <img src="https://avatars.githubusercontent.com/u/7490817?v=4" alt="" width="220px" style={{ borderRadius: '100%'}} />
       <h1>Jaison Peres</h1>
       <div className="card">
         <p>
