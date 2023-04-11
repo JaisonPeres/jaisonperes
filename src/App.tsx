@@ -11,7 +11,7 @@ function App() {
       <h1>Jaison Peres</h1>
       <div className="card">
         <p>
-          Em breve, mais informações sobre mim.
+          Em breve, um site pessoal cheio de coisas legais.
         </p>
       </div>
       <p className="read-the-docs">
