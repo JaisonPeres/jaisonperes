@@ -29,7 +29,7 @@ jobs:
           aws-region: us-east-1
 
       - name: Deploy static site to S3 bucket
-        run: aws s3 sync ./dist s3://jaisonperes-personal-site
+        run: aws s3 sync ./dist s3://${{ secrets.S3_BUCCKET_NAME }}
 
       - name: Create CloudFront invalidation
-        run: aws cloudfront create-invalidation --distribution-id EZTGHR5HIEKW7 --paths "/*"
+        run: aws cloudfront create-invalidation --distribution-id ${{ secrets.CF_DISTRIBUTION_ID }} --paths "/*"
