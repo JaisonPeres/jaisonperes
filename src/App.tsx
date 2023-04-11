@@ -17,6 +17,9 @@ function App() {
       <p className="read-the-docs">
         <a href='https://www.linkedin.com/in/jaison-cperes/' target='_blank'>linkedin.com/in/jaison-cperes</a>
       </p>
+      <p className="read-the-docs">
+        <a href='https://github.com/JaisonPeres' target='_blank'>github.com/JaisonPeres</a>
+      </p>
     </div>
   )
 }
