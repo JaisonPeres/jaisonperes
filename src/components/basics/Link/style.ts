@@ -8,7 +8,7 @@ const LinkButton = styled('button', {
   color: 'white',
   borderRadius: '8px',
   border: 'none',
-  fontSize: '13px',
+  fontSize: '16px',
   padding: '10px 16px',
   margin: '4px',
   transition: 'all 0.2s ease-in-out',
