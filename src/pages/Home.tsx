@@ -17,7 +17,7 @@ export function Home() {
     },
     {
       url: "https://www.linkedin.com/in/jaison-cperes",
-      label: "> linkedin.com/in/jaisonperes",
+      label: "> linkedin.com/in/jaison-cperes",
       target: "_blank"
     },
     {
