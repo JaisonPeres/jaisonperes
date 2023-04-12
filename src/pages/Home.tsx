@@ -21,6 +21,11 @@ export function Home() {
       target: "_blank"
     },
     {
+      url: "https://t.me/jaisonperes",
+      label: "> t.me/jaisonperes",
+      target: "_blank"
+    },
+    {
       url: 'https://github.com/JaisonPeres/jaisonperes',
       label: '> github deste projeto',
       target: '_blank'
