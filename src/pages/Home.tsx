@@ -16,7 +16,7 @@ export function Home() {
       target: "_blank"
     },
     {
-      url: "https://www.linkedin.com/in/jaisonperes/",
+      url: "https://www.linkedin.com/in/jaison-cperes",
       label: "> linkedin.com/in/jaisonperes",
       target: "_blank"
     },
