@@ -5,6 +5,7 @@ const FlexCenter = styled('div', {
   justifyContent: 'space-around',
   flexDirection: 'column',
   alignItems: 'center',
+  maxWidth: '100%',
 });
 
 export default FlexCenter;
