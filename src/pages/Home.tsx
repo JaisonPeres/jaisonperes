@@ -12,24 +12,19 @@ export function Home() {
   const links: Link[] = [
     {
       url: "https://github.com/JaisonPeres",
-      label: "> github.com/JaisonPeres",
+      label: "> github: @JaisonPeres",
       target: "_blank"
     },
     {
       url: "https://www.linkedin.com/in/jaison-cperes",
-      label: "> linkedin.com/in/jaison-cperes",
+      label: "> linkedin: @jaison-cperes",
       target: "_blank"
     },
     {
       url: "https://t.me/jaisonperes",
-      label: "> t.me/jaisonperes",
+      label: "> telegram: @jaisonperes",
       target: "_blank"
     },
-    {
-      url: 'https://github.com/JaisonPeres/jaisonperes',
-      label: '> github deste projeto',
-      target: '_blank'
-    }
   ]
   return (
     <FlexCenter>
