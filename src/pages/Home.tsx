@@ -30,6 +30,7 @@ export function Home() {
     <FlexCenter>
       <Avatar image="https://avatars.githubusercontent.com/u/7490817?v=4" name="Jaison"/>
       <h1>Jaison Peres</h1>
+      <h2>full-stack developer</h2>
       <div>
         {links?.map((link) => (
           <Link key={link.url} url={link.url} label={link.label} target={link.target} />
